@@ -1,6 +1,6 @@
 public class switchloops {
     public static void main(String[] args) {
-        //it is loop that used to control flow statement
+        //it is  that used to control flow statement
        /* int n = 2;
         switch(n){
 
